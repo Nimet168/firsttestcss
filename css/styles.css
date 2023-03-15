@@ -88,14 +88,14 @@ hr {
 }
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 50px;
+    right: 18rem;
+    top: 3rem;
 }
 
 .botton-cloud {
     position: absolute;
-    left: 300px;
-    top: 200px;
+    left: 18rem;
+    top: 12rem;
 }
 
 .skill-row {
